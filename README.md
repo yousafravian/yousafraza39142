@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yousafraza39142
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning .net
+- 🌱 I’m currently learning .net meanwhile sharpning my expertise on Angular
 - 💞️ I’m looking to collaborate on Angular projects
 - 📫 You can reach me at my mail : yousafrazaravian@gmail.com
 
